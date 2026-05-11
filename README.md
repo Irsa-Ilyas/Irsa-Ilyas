@@ -1,41 +1,45 @@
-<h1 align="center">Hi 👋, I'm Irsa Ilyas</h1>
-<h3 align="center">A passionate frontend developer from pakistan</h3>
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" alt="Coding">
+# 👋 Hi, I'm Irsa Ilyas
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irsa-ilyas&label=Profile%20views&color=0e75b6&style=flat" alt="irsa-ilyas" /> </p>
+💻 Front end Developer from Pakistan 🇵🇰  
+🚀 I build modern, responsive, and scalable web applications using React, Next.js, TypeScript, and Tailwind CSS.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
+---
 
-- 🌱 I’m currently learning **FRONT END DEVELOPMENT**
+## 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT AND TYPESCRIPT**
+---
+## 👀 Profile Views & GitHub Info
 
-- 📫 How to reach me **irsailyas5904@gmail.com**
+![Profile views](https://komarev.com/ghpvc/?username=Irsa-Ilyas&color=blue)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+![Repos](https://img.shields.io/github/repos/Irsa-Ilyas?label=Repositories&style=flat)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irsa-ilyas&show_icons=true&locale=en&layout=compact" alt="irsa-ilyas" /></p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/irsa-ilyas-364a36272/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:irsailyas5904@gmail.com)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irsa-ilyas&show_icons=true&locale=en" alt="irsa-ilyas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irsa-ilyas&" alt="irsa-ilyas" /></p>
 
-<!--
-**Irsa-Ilyas/Irsa-Ilyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Irsa-Ilyas&theme=default&hide_border=false&include_all_commits=false&count_private=false)
 
-Here are some ideas to get you started:
+![GitHub Streak](https://streak-stats.demolab.com/?user=Irsa-Ilyas&theme=default&hide_border=false)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Irsa-Ilyas&theme=default&hide_border=false&layout=compact)
+
+---
+
+
